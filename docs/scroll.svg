@@ -11,10 +11,6 @@
    xmlns:svg="http://www.w3.org/2000/svg"><desc
      id="desc1">dragons1.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc><defs
      id="defs4"><linearGradient
-       id="swatch31"><stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop31" /></linearGradient><linearGradient
        id="swatch21"><stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -85,6 +81,15 @@
        y1="16.004883"
        x2="30.400904"
        y2="16.004883" /></defs><g
+     id="layer4"><rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       id="rect3"
+       width="400"
+       height="400"
+       x="0"
+       y="0"
+       rx="14.999947"
+       ry="15.000001" /></g><g
      id="g12"><g
        id="g2"
        style="fill:url(#linearGradient21);fill-opacity:1;stroke-width:1.91759"
