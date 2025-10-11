@@ -88,8 +88,12 @@
        height="400"
        x="0"
        y="0"
-       rx="14.999947"
-       ry="15.000001" /></g><g
+       rx="4.99999"
+       ry="4.9999995" /><use
+       x="0"
+       y="0"
+       xlink:href="#rect3"
+       id="use3" /></g><g
      id="g12"><g
        id="g2"
        style="fill:url(#linearGradient21);fill-opacity:1;stroke-width:1.91759"

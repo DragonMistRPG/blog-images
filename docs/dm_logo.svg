@@ -6,6 +6,7 @@
    version="1.1"
    id="svg12"
    xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><desc
      id="desc1">dragons1.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc><defs
@@ -41,13 +42,18 @@
      id="layer4"
      transform="translate(-410.00001)"><rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-       id="rect2"
+       id="rect3"
        width="400"
        height="400"
-       x="410"
+       x="0"
        y="0"
-       rx="14.999947"
-       ry="15.000001" /></g><g
+       rx="4.99999"
+       ry="4.9999995" /><use
+       x="0"
+       y="0"
+       xlink:href="#rect3"
+       transform="translate(410.00001)"
+       id="use4" /></g><g
      id="layer2"
      transform="translate(-410.00001)"><g
        id="g2-0"
